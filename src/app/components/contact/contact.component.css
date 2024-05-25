@@ -1,0 +1,24 @@
+.contactClass {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contactClass h1 {
+    margin-left: 3vh;
+    font-size: 225%;
+}
+
+.contactClass li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.contactClass div {
+    margin-right: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

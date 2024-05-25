@@ -1,0 +1,25 @@
+.conocimientosClass ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif   ;
+}
+
+.conocimientosClass h1 {
+    margin-left: 3vh;
+    font-size: 225%;
+    color: white;   
+}
+
+.conocimientosClass h2 {
+    color: white;   
+}
+
+.conocimientosClass div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}   

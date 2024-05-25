@@ -1,0 +1,20 @@
+.aboutClass {
+    color: white;
+    text-align: center;
+}
+
+.aboutClass h1 {
+    font-size: 300%;
+    margin-bottom: 5px;
+}
+
+.aboutClass p {
+    font-size: 125%;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.aboutClass p strong {
+    color: green;
+}

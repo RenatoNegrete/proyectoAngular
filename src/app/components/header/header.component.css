@@ -1,0 +1,22 @@
+.headerClass {
+    text-align: left;
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headerClass h1 {
+    font-size: 300%;
+    margin-left: 35px;
+    margin-bottom: 5px;
+}
+
+.headerClass h1 span {
+    color: green;
+}
+
+.headerClass h2 {
+    font-size: 200%;
+    margin-left: 35px;
+    margin-top: 5px;
+}
